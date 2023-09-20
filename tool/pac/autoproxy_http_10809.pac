@@ -5,7 +5,7 @@
  * GFWList From: local[/home/neucrack/data/projects/note/tool/pac/gfwlist.txt]
  */
 
-var proxy = 'HTTP 192.168.1.19:10809';
+var proxy = 'PROXY 192.168.1.19:10809';
 var rules = [
     [
         [],
