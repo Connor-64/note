@@ -5,7 +5,7 @@
  * GFWList From: local[/home/neucrack/data/projects/note/tool/pac/gfwlist.txt]
  */
 
-var proxy = 'SOCKS5 127.0.0.1:10808';
+var proxy = 'SOCKS5 192.168.1.19:10808';
 var rules = [
     [
         [],
